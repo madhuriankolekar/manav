@@ -1,0 +1,22 @@
+/* CustomNavbar.css */
+
+/* Navbar styles */
+.custom-navbar {
+    margin-bottom: 20px;
+  }
+  
+  /* Login button styles */
+  .login-button {
+    margin-left: 10px;
+    width: 90px;
+    
+    background-color: rgb(180, 170, 170);
+  }
+  
+  /* Modal styles */
+  .custom-modal {
+    .modal-content {
+      background-color: rgb(180, 170, 170); /* Change modal background color to red */
+    }
+  }
+  
